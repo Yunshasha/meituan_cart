@@ -3,6 +3,7 @@
 This is the HEIMA react practice with RTK and JS
 
 <img src="https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png" alt="uipicture" style="width: 300px">
+<img src="https://github.com/Yunshasha/meituan_cart/blob/main/public/cartui.png" style="width: 300px">
 
 ### 安装所有依赖
 
