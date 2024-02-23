@@ -1,7 +1,7 @@
 ## Getting Started
 
 This is the HEIMA react practice with RTK and JS
-![uipicture](https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png =250x)
+![uipicture]('https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png =250x')
 
 ### 安装所有依赖
 
