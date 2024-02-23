@@ -1,8 +1,8 @@
 ## Getting Started
 
 This is the HEIMA react practice with RTK and JS
-![uipicture](https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png)
-<img src="https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png" alt="uipicture" style="width: 200px">
+
+<img src="https://github.com/Yunshasha/meituan_cart/blob/main/public/ui.png" alt="uipicture" style="width: 300px">
 
 ### 安装所有依赖
 
